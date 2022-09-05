@@ -21,7 +21,7 @@ author: Bhargav Rajyaguru
 
 navbar-links:
   About Me: "aboutme"
-  Blog: "blog"
+  Blog: "myfirstblog"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
